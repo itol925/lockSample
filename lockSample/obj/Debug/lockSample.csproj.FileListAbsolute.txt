@@ -1,0 +1,6 @@
+E:\projects\lockSample\lockSample\bin\Debug\lockSample.exe.config
+E:\projects\lockSample\lockSample\obj\Debug\lockSample.csprojResolveAssemblyReference.cache
+E:\projects\lockSample\lockSample\bin\Debug\lockSample.exe
+E:\projects\lockSample\lockSample\bin\Debug\lockSample.pdb
+E:\projects\lockSample\lockSample\obj\Debug\lockSample.exe
+E:\projects\lockSample\lockSample\obj\Debug\lockSample.pdb
